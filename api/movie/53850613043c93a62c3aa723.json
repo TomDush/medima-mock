@@ -1,1 +1,127 @@
-{"_id":"53850613043c93a62c3aa723","backdrops":["backdrop/themoviedb/spider-man-3/6nLe1dPJjGlbqcd2BIrGfj6qouZ.jpg"],"collection":{"mediaIds":[{"type":"themoviedb","value":"556"}],"part":0,"title":"Spider-Man Collection","totalPart":0},"creation":1401226771419,"directors":[{"name":"Sam Raimi","picture":"actor/themoviedb/sam-raimi/LaCTPq1oh0nAs3mzwsc057OaPr.jpg","sourceIds":[{"type":"themoviedb","value":"7623"}]}],"genres":["Action","Adventure","Fantasy"],"id":"53850613043c93a62c3aa723","mainActors":[{"name":"Tobey Maguire","picture":"actor/themoviedb/tobey-maguire/g423LRluvo5JjxGtEgnclsNdX7Y.jpg","sourceIds":[{"type":"themoviedb","value":"2219"}]},{"name":"Kirsten Dunst","picture":"actor/themoviedb/kirsten-dunst/3fjUI92bQaGOnbxHBbyR0z9h619.jpg","sourceIds":[{"type":"themoviedb","value":"205"}]},{"name":"James Franco","picture":"actor/themoviedb/james-franco/4YD963D57MqgwiqXS7VrSNOyNFh.jpg","sourceIds":[{"type":"themoviedb","value":"17051"}]},{"name":"Thomas Haden Church","picture":"actor/themoviedb/thomas-haden-church/A3bV1eIKed7yrswZQW86oswrB9P.jpg","sourceIds":[{"type":"themoviedb","value":"19159"}]},{"name":"Topher Grace","picture":"actor/themoviedb/topher-grace/nM4H9Uqn2V4shWCxxnDqT6ZaJOu.jpg","sourceIds":[{"type":"themoviedb","value":"17052"}]},{"name":"Bryce Dallas Howard","picture":"actor/themoviedb/bryce-dallas-howard/lraPwrdOap8GQQ3bASSCdNAnoQU.jpg","sourceIds":[{"type":"themoviedb","value":"18997"}]}],"mediaIds":[{"type":"themoviedb","value":"559"}],"otherMetaData":null,"overview":"The seemingly invincible Spider-Man goes up against an all-new crop of villains -- including the shape-shifting Sandman -- in the third installment of this blockbusting comic book adventure series. While Spidey's superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and gets caught up in a love triangle.","poster":"poster/themoviedb/spider-man-3/uCkciRXZo17sQjXqKeAD9srm92a.jpg","recovery":null,"release":1178146800000,"seen":0,"tagline":"The battle within.","title":"Spider-Man 3","trailers":null,"videoFiles":[{"file":"/mnt/data/Movies/Sagas/Spiderman La Trilogie FRENCH DVDRiP XviD/Spiderman 3.avi","hash":null,"multipart":false,"nextParts":[],"quality":null}],"voteAverage":0.5600000023841858}
+{
+    "_id": "53850613043c93a62c3aa723",
+    "backdrops": [
+        "backdrop/themoviedb/spider-man-3/6nLe1dPJjGlbqcd2BIrGfj6qouZ.jpg",
+        "backdrop/themoviedb/star-wars-episode-ii-attack-of-the-clones/560F7BPaxRy8BsOfVU6cW4ivM46.jpg",
+        "backdrop/themoviedb/indiana-jones-and-the-last-crusade/m3bEQlir8IWpmFocQBXWM5fkHri.jpg",
+        "backdrop/themoviedb/x-men-first-class/39nstYsfjR6ggyKTtB4Joga2fs8.jpg"
+    ],
+    "collection": {
+        "mediaIds": [
+            {
+                "type": "themoviedb",
+                "value": "556"
+            }
+        ],
+        "part": 0,
+        "title": "Spider-Man Collection",
+        "totalPart": 0
+    },
+    "creation": 1401226771419,
+    "directors": [
+        {
+            "name": "Sam Raimi",
+            "picture": "actor/themoviedb/sam-raimi/LaCTPq1oh0nAs3mzwsc057OaPr.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "7623"
+                }
+            ]
+        }
+    ],
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "id": "53850613043c93a62c3aa723",
+    "mainActors": [
+        {
+            "name": "Tobey Maguire",
+            "picture": "actor/themoviedb/tobey-maguire/g423LRluvo5JjxGtEgnclsNdX7Y.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "2219"
+                }
+            ],
+            "character": "Spiderman"
+        },
+        {
+            "name": "Kirsten Dunst",
+            "picture": "actor/themoviedb/kirsten-dunst/3fjUI92bQaGOnbxHBbyR0z9h619.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "205"
+                }
+            ],
+            "character": "The Girl"
+        },
+        {
+            "name": "James Franco",
+            "picture": "actor/themoviedb/james-franco/4YD963D57MqgwiqXS7VrSNOyNFh.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "17051"
+                }
+            ],
+            "character": "Bad guy"
+        },
+        {
+            "name": "Thomas Haden Church",
+            "picture": "actor/themoviedb/thomas-haden-church/A3bV1eIKed7yrswZQW86oswrB9P.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "19159"
+                }
+            ]
+        },
+        {
+            "name": "Topher Grace",
+            "picture": "actor/themoviedb/topher-grace/nM4H9Uqn2V4shWCxxnDqT6ZaJOu.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "17052"
+                }
+            ]
+        },
+        {
+            "name": "Bryce Dallas Howard",
+            "picture": "actor/themoviedb/bryce-dallas-howard/lraPwrdOap8GQQ3bASSCdNAnoQU.jpg",
+            "sourceIds": [
+                {
+                    "type": "themoviedb",
+                    "value": "18997"
+                }
+            ]
+        }
+    ],
+    "mediaIds": [
+        {
+            "type": "themoviedb",
+            "value": "559"
+        }
+    ],
+    "otherMetaData": null,
+    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains -- including the shape-shifting Sandman -- in the third installment of this blockbusting comic book adventure series. While Spidey's superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and gets caught up in a love triangle.",
+    "poster": "poster/themoviedb/spider-man-3/uCkciRXZo17sQjXqKeAD9srm92a.jpg",
+    "recovery": null,
+    "release": 1178146800000,
+    "seen": 0,
+    "tagline": "The battle within.",
+    "title": "Spider-Man 3",
+    "trailers": null,
+    "videoFiles": [
+        {
+            "file": "/mnt/data/Movies/Sagas/Spiderman La Trilogie FRENCH DVDRiP XviD/Spiderman 3.avi",
+            "hash": null,
+            "multipart": false,
+            "nextParts": [],
+            "quality": "HD-1080",
+            "lang": "FR"
+        }
+    ],
+    "length": 114,
+    "voteAverage": 0.5600000023841858
+}

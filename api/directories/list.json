@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Movie VF",
+        "mediaType": "MOVIE",
+        "paths": [
+            "/mnt/data/Films/Films"
+        ],
+        "lastRefresh": 1396737415000,
+        "lang": "FR"
+    },
+    {
+        "name": "Movies_vf",
+        "lastRefresh": 1396478215000,
+        "mediaType": "MOVIE",
+        "paths": [
+            "/mnt/data/Movies/Movies_vf"
+        ],
+        "lang": "FR"
+    },
+    {
+        "name": "Sagas",
+        "lastRefresh": 1396737415000,
+        "mediaType": "MOVIE",
+        "paths": [
+            "/mnt/data/Movies/Sagas"
+        ],
+        "lang": "FR"
+    }
+]
