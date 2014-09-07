@@ -1,29 +1,57 @@
 [
     {
-        "name": "Movie VF",
+        "name": "Movies VF",
         "mediaType": "MOVIE",
         "paths": [
-            "/mnt/data/Films/Films"
+            "/mnt/data/Movies/Movies_VF",
+            "/mnt/data/Movies/Sagas"
         ],
         "lastRefresh": 1396737415000,
-        "lang": "FR"
+        "lang": "FR",
+        "size": 96
     },
     {
-        "name": "Movies_vf",
+        "name": "Movies EN",
         "lastRefresh": 1396478215000,
         "mediaType": "MOVIE",
         "paths": [
-            "/mnt/data/Movies/Movies_vf"
+            "/mnt/data/Movies/Movies_VO"
         ],
-        "lang": "FR"
+        "lang": "EN",
+        "size": 32
     },
     {
-        "name": "Sagas",
+        "name": "Show US",
         "lastRefresh": 1396737415000,
-        "mediaType": "MOVIE",
+        "mediaType": "SHOW",
         "paths": [
-            "/mnt/data/Movies/Sagas"
+            "/mnt/data/Movies/Shows"
         ],
-        "lang": "FR"
+        "lang": "EN",
+        "size": 2
+    },
+    {
+        "name": "Movies on server",
+        "lastRefresh": 1396737415000,
+        "mediaType": "SHOW",
+        "paths": [
+            "/mnt/data/Movies/Shows"
+        ],
+        "lang": "EN",
+        "size": 186,
+        "remote": true,
+        "online": true
+    },
+    {
+        "name": "Shows on server",
+        "lastRefresh": 1396737415000,
+        "mediaType": "SHOW",
+        "paths": [
+            "/mnt/data/Movies/Shows"
+        ],
+        "lang": "EN",
+        "size": 8,
+        "remote": true,
+        "online": false
     }
 ]
