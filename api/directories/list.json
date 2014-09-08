@@ -3,8 +3,8 @@
         "name": "Movies VF",
         "mediaType": "MOVIE",
         "paths": [
-            "/mnt/data/Movies/Movies_VF",
-            "/mnt/data/Movies/Sagas"
+            "/mnt/local/data/Movies_VF",
+            "/mnt/local/data/Sagas"
         ],
         "lastRefresh": 1396737415000,
         "lang": "FR",
