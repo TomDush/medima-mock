@@ -1,0 +1,12 @@
+{
+    "lang": "FR",
+    "lastRefresh": 1396737415000,
+    "mediaType": "MOVIE",
+    "name": "MoviesVF",
+    "oldName": "Movies VF",
+    "paths": [
+        "/mnt/local/data/Movies_VF",
+        "/mnt/local/data/Sagas"
+    ],
+    "size": 96
+}
