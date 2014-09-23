@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Tempo",
+        "path": "/mnt/data/toSort"
+    },
+    {
+        "name": "USB Key",
+        "path": "/mnt/usb-key"
+    }
+]
